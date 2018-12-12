@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: e0636ca0f77f5904ca16d6e83d050353
+timeCreated: 1536698907
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: food_Warmer
+    100002: lower_Rack
+    100004: metal_bit
+    100006: metal_bit1
+    100008: metal_bit2
+    100010: metal_bit3
+    100012: metal_bit4
+    100014: metal_Heater_lower
+    100016: metal_Heater_upper
+    100018: nob_stationary
+    100020: nob_stationary1
+    100022: nob_stationary2
+    100024: nob_stationary3
+    100026: OPEN_OVEN_DOOR_HERE
+    100028: Oven
+    100030: oven
+    100032: //RootNode
+    100034: ovendoor
+    100036: ovendoor_Handle
+    100038: TURN_L_LEFT_NOB_HERE
+    100040: TURN_L_RIGHT_NOB_HERE
+    100042: TURN_R_LEFT_NOB_HERE
+    100044: TURN_R_RIGHT_NOB_HERE
+    100046: upper_Rack
+    400000: food_Warmer
+    400002: lower_Rack
+    400004: metal_bit
+    400006: metal_bit1
+    400008: metal_bit2
+    400010: metal_bit3
+    400012: metal_bit4
+    400014: metal_Heater_lower
+    400016: metal_Heater_upper
+    400018: nob_stationary
+    400020: nob_stationary1
+    400022: nob_stationary2
+    400024: nob_stationary3
+    400026: OPEN_OVEN_DOOR_HERE
+    400028: Oven
+    400030: oven
+    400032: //RootNode
+    400034: ovendoor
+    400036: ovendoor_Handle
+    400038: TURN_L_LEFT_NOB_HERE
+    400040: TURN_L_RIGHT_NOB_HERE
+    400042: TURN_R_LEFT_NOB_HERE
+    400044: TURN_R_RIGHT_NOB_HERE
+    400046: upper_Rack
+    2300000: food_Warmer
+    2300002: lower_Rack
+    2300004: metal_bit
+    2300006: metal_bit1
+    2300008: metal_bit2
+    2300010: metal_bit3
+    2300012: metal_bit4
+    2300014: metal_Heater_lower
+    2300016: metal_Heater_upper
+    2300018: nob_stationary
+    2300020: nob_stationary1
+    2300022: nob_stationary2
+    2300024: nob_stationary3
+    2300026: oven
+    2300028: ovendoor
+    2300030: ovendoor_Handle
+    2300032: TURN_L_LEFT_NOB_HERE
+    2300034: TURN_L_RIGHT_NOB_HERE
+    2300036: TURN_R_LEFT_NOB_HERE
+    2300038: TURN_R_RIGHT_NOB_HERE
+    2300040: upper_Rack
+    3300000: food_Warmer
+    3300002: lower_Rack
+    3300004: metal_bit
+    3300006: metal_bit1
+    3300008: metal_bit2
+    3300010: metal_bit3
+    3300012: metal_bit4
+    3300014: metal_Heater_lower
+    3300016: metal_Heater_upper
+    3300018: nob_stationary
+    3300020: nob_stationary1
+    3300022: nob_stationary2
+    3300024: nob_stationary3
+    3300026: oven
+    3300028: ovendoor
+    3300030: ovendoor_Handle
+    3300032: TURN_L_LEFT_NOB_HERE
+    3300034: TURN_L_RIGHT_NOB_HERE
+    3300036: TURN_R_LEFT_NOB_HERE
+    3300038: TURN_R_RIGHT_NOB_HERE
+    3300040: upper_Rack
+    4300000: oven
+    4300002: upper_Rack
+    4300004: lower_Rack
+    4300006: metal_Heater_lower
+    4300008: metal_Heater_upper
+    4300010: food_Warmer
+    4300012: metal_bit
+    4300014: metal_bit1
+    4300016: metal_bit2
+    4300018: metal_bit3
+    4300020: metal_bit4
+    4300022: nob_stationary
+    4300024: nob_stationary1
+    4300026: nob_stationary2
+    4300028: nob_stationary3
+    4300030: ovendoor
+    4300032: ovendoor_Handle
+    4300034: TURN_R_RIGHT_NOB_HERE
+    4300036: TURN_R_LEFT_NOB_HERE
+    4300038: TURN_L_RIGHT_NOB_HERE
+    4300040: TURN_L_LEFT_NOB_HERE
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: 5842c9ed461e272479b02d8ce92c3832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oven1
+    second: {fileID: 2100000, guid: 8cf85ee4130fc6b40b3833bcba234d1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 722fb25794bc3e54ba8c47b6516e6e2d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

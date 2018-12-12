@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamSpoop", "TeamSpoop.csproj", "{428D2441-ADFA-3BB7-08BC-B83E2D9E5BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamSpoop.Plugins", "TeamSpoop.Plugins.csproj", "{3B5AD8E7-A48C-CE47-8189-E966DF438ADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamSpoop.Editor", "TeamSpoop.Editor.csproj", "{13D844CB-7735-5D8B-CD1F-29A5C33C6A48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamSpoop.Editor.Plugins", "TeamSpoop.Editor.Plugins.csproj", "{ACAF7F28-63DF-9B82-39A9-D2B2203E1282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{428D2441-ADFA-3BB7-08BC-B83E2D9E5BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428D2441-ADFA-3BB7-08BC-B83E2D9E5BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428D2441-ADFA-3BB7-08BC-B83E2D9E5BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428D2441-ADFA-3BB7-08BC-B83E2D9E5BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5AD8E7-A48C-CE47-8189-E966DF438ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5AD8E7-A48C-CE47-8189-E966DF438ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5AD8E7-A48C-CE47-8189-E966DF438ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5AD8E7-A48C-CE47-8189-E966DF438ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D844CB-7735-5D8B-CD1F-29A5C33C6A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D844CB-7735-5D8B-CD1F-29A5C33C6A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D844CB-7735-5D8B-CD1F-29A5C33C6A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D844CB-7735-5D8B-CD1F-29A5C33C6A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACAF7F28-63DF-9B82-39A9-D2B2203E1282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAF7F28-63DF-9B82-39A9-D2B2203E1282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAF7F28-63DF-9B82-39A9-D2B2203E1282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAF7F28-63DF-9B82-39A9-D2B2203E1282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
